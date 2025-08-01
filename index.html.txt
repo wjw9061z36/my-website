@@ -1,0 +1,28 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>我的个人网站</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>欢迎来到我的网站！</h1>
+    </header>
+    <main>
+        <section>
+            <h2>关于我</h2>
+            <p>你好！我是 [你的名字]，这是一个简单的个人网站，展示我的兴趣和作品。</p>
+        </section>
+        <section>
+            <h2>联系方式</h2>
+            <p>邮箱：example@email.com</p>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2025 [你的名字]. 保留所有权利。</p>
+    </footer>
+</body>
+</html>

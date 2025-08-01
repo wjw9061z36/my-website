@@ -1,0 +1,16 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    line-height: 1.6;
+}
+header {
+    background: #f0f0f0;
+    text-align: center;
+    padding: 10px;
+}
+footer {
+    text-align: center;
+    margin-top: 50px;
+    color: #666;
+}
